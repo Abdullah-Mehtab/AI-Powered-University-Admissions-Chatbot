@@ -19,14 +19,16 @@ The admissions process can be overwhelming with numerous questions about program
 - Provide accurate and instant responses.
 - Enhance the user experience with a friendly, intuitive interface.
 
-## Features
+## 📌 Features
 
-- **Instant Query Resolution**: Handles FAQs about admissions, scholarships, and deadlines with over 85% accuracy.
-- **User-Friendly Interface**: Built with Tkinter for an interactive experience.
-- **Smart NLP**: Understands user intent and generates context-aware responses.
-- **Customizable Themes**: Includes a fun "Pink/UwU" mode.
-- **Conversation Saving**: Allows users to save their chat history for reference.
-- **Simple Arithmetic**: Supports basic arithmetic operations for added utility.
+- 🏫 **University Admissions Assistance** – Provides information on application deadlines, scholarship eligibility, and admission requirements.
+- 🤖 **AI-Based Intent Recognition** – Uses a neural network model to classify user queries and return relevant responses.
+- 💬 **Interactive Chat Interface** – A Tkinter-based GUI for easy interaction.
+- 📊 **Machine Learning Model** – Built using **TensorFlow and Keras** for intent classification.
+- 🎨 **Customizable Themes** – Supports a **"Pink/UwU" theme** for a fun interface.
+- 📝 **Conversation Saving** – Users can save chat logs for future reference.
+- ➕ **Simple Arithmetic Support** – Can process basic mathematical expressions.
+
 
 ## Technologies Used
 
@@ -89,16 +91,9 @@ university-admissions-chatbot/
 ├── README.md             # Project documentation
 ```
 
-## Team Members
-
-- **Abdullah Mehtab**: Dataset preparation and model training.
-- **Ali Mujtaba**: Interface development and information gathering.
-- **Laiba**: Testing and evaluation.
-- **Zain-ul-Abidin**: Quality assurance and additional features.
-
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is open-source and available under the MIT License.
 
 ---
 
